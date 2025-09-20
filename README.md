@@ -11,7 +11,7 @@ Artinya masih dalam tahap eksperimen dan pengembangan. Banyak fitur belum stabil
 ## ✨ Fitur yang sudah ada
 - `out:` untuk menampilkan teks atau variabel  
 - `in:` untuk membaca input dari console  
-- Deklarasi variabel sederhana (`string`, `int`, `bool`) — masih tahap awal
+- Deklarasi variabel sederhana (`string`, `int`, `bool`) — TAHAP PENGERJAAN
 
 ---
 

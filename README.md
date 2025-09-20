@@ -18,10 +18,4 @@ Artinya masih dalam tahap eksperimen dan pengembangan. Banyak fitur belum stabil
 ## 📂 Contoh program
 
 ```pga
-string name = "John Doe"
-out: "Halo "
-out: name
-
-in: "Masukkan hobi kamu: "
-out: "Hobi kamu adalah "
-out: lastInput
+out: "Hello world"

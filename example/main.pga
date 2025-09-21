@@ -1,0 +1,5 @@
+str nama = "Anonim"
+in: "Masukkan nama: " @nama
+out: "Halo, "
+out: nama
+

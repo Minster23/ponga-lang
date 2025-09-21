@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 str nama = "Anonim"
 in: "Masukkan nama: " @nama
 out: "Halo, "
 out: nama
 
+=======
+out: "Masukan nama"
+in:
+>>>>>>> cac259fdc06e70ead5dd6d93de2f618600905fbd
